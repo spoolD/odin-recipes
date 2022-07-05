@@ -1,0 +1,23 @@
+img {
+    width: 250px;
+    height: auto;
+}
+
+h1 {
+    color: green
+}
+
+h2 {
+    background-color: rgba(255, 229, 85, 0.726);
+    text-align: center;
+}
+
+ul li,
+ol li {
+    font-family: "Arial", "sans-serif";
+    padding-bottom: 5px;
+}
+
+.return{
+    font-size: 24pt;
+}
